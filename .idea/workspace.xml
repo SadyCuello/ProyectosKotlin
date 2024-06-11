@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25407fd8-711f-426e-a916-35d72ab7fad9" name="Changes" comment="Primer-HelloWorld">
-      <change afterPath="$PROJECT_DIR$/src/operBasic_Pecera.kt" afterDir="false" />
+    <list default="true" id="25407fd8-711f-426e-a916-35d72ab7fad9" name="Changes" comment="Practica 2">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListasNulas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadorElvis.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -53,8 +56,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.ListasNulasKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.OperBasic_PeceraKt.executor": "Run",
+    "Kotlin.OperadorElvisKt.executor": "Run",
+    "Kotlin.VariablesKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -67,9 +73,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.OperBasic_PeceraKt">
+  <component name="RunManager" selected="Kotlin.OperadorElvisKt">
     <configuration name="HelloWorldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorldKt" />
+      <module name="ProyectosKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListasNulasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListasNulasKt" />
       <module name="ProyectosKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,8 +95,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperadorElvisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperadorElvisKt" />
+      <module name="ProyectosKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariablesKt" />
+      <module name="ProyectosKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.OperadorElvisKt" />
+        <item itemvalue="Kotlin.ListasNulasKt" />
+        <item itemvalue="Kotlin.VariablesKt" />
         <item itemvalue="Kotlin.OperBasic_PeceraKt" />
         <item itemvalue="Kotlin.HelloWorldKt" />
       </list>
@@ -115,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717990616099</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Practica 2">
+      <option name="closed" value="true" />
+      <created>1717996115105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717996115105</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +161,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer-HelloWorld" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primer-HelloWorld" />
+    <MESSAGE value="Practica 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practica 2" />
   </component>
 </project>
