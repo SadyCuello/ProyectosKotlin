@@ -5,10 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25407fd8-711f-426e-a916-35d72ab7fad9" name="Changes" comment="Practica 2">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListasNulas.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadorElvis.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays and Loops.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays and Loops2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookPar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassBook.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassSimpleSpice2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassSpice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContenedorSpice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cuerdas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Especias.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fish in tank.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FortuneCookie.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FortuneCookie2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionSuperiorMove.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListLambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isSmallBuilding.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whatShouldIDoToday.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,24 +42,27 @@
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SadyCuello"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SadyCuello&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SadyCuello/ProyectosKotlin",
-    "accountId": "937cea8e-6804-47c8-bef9-c470bf09b8c8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SadyCuello/ProyectosKotlin&quot;,
+    &quot;accountId&quot;: &quot;937cea8e-6804-47c8-bef9-c470bf09b8c8&quot;
   }
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -56,11 +74,29 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.Arrays_and_Loops2Kt.executor": "Run",
+    "Kotlin.Arrays_and_LoopsKt.executor": "Run",
+    "Kotlin.BookMapKt.executor": "Run",
+    "Kotlin.BookParKt.executor": "Run",
+    "Kotlin.ClassBookKt.executor": "Run",
+    "Kotlin.ClassSimpleSpice2Kt.executor": "Run",
+    "Kotlin.ClassSpiceKt.executor": "Run",
+    "Kotlin.ContenedorSpiceKt.executor": "Run",
+    "Kotlin.CuerdasKt.executor": "Run",
+    "Kotlin.EnumsKt.executor": "Run",
+    "Kotlin.EspeciasKt.executor": "Run",
+    "Kotlin.Fish_in_tankKt.executor": "Run",
+    "Kotlin.FortuneCookie2Kt.executor": "Run",
+    "Kotlin.FortuneCookieKt.executor": "Run",
+    "Kotlin.IsSmallBuildingKt.executor": "Run",
+    "Kotlin.LambdaKt.executor": "Run",
+    "Kotlin.ListLambdaKt.executor": "Run",
     "Kotlin.ListasNulasKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.OperBasic_PeceraKt.executor": "Run",
     "Kotlin.OperadorElvisKt.executor": "Run",
     "Kotlin.VariablesKt.executor": "Run",
+    "Kotlin.WhatShouldIDoTodayKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -73,37 +109,37 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.OperadorElvisKt">
-    <configuration name="HelloWorldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorldKt" />
+  <component name="RunManager" selected="Kotlin.ListLambdaKt">
+    <configuration name="BookMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookMapKt" />
       <module name="ProyectosKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListasNulasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListasNulasKt" />
+    <configuration name="BookParKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookParKt" />
       <module name="ProyectosKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperBasic_PeceraKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperBasic_PeceraKt" />
+    <configuration name="EnumsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumsKt" />
       <module name="ProyectosKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadorElvisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperadorElvisKt" />
+    <configuration name="IsSmallBuildingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsSmallBuildingKt" />
       <module name="ProyectosKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariablesKt" />
+    <configuration name="ListLambdaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListLambdaKt" />
       <module name="ProyectosKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.OperadorElvisKt" />
-        <item itemvalue="Kotlin.ListasNulasKt" />
-        <item itemvalue="Kotlin.VariablesKt" />
-        <item itemvalue="Kotlin.OperBasic_PeceraKt" />
-        <item itemvalue="Kotlin.HelloWorldKt" />
+        <item itemvalue="Kotlin.ListLambdaKt" />
+        <item itemvalue="Kotlin.EnumsKt" />
+        <item itemvalue="Kotlin.IsSmallBuildingKt" />
+        <item itemvalue="Kotlin.BookMapKt" />
+        <item itemvalue="Kotlin.BookParKt" />
       </list>
     </recent_temporary>
   </component>
@@ -136,6 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717989543774</updated>
       <workItem from="1717989545457" duration="437000" />
+      <workItem from="1718283870359" duration="31064000" />
     </task>
     <task id="LOCAL-00001" summary="Primer-HelloWorld">
       <option name="closed" value="true" />
@@ -153,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717996115105</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Practica 2">
+      <option name="closed" value="true" />
+      <created>1718125708434</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718125708435</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,5 +208,19 @@
     <MESSAGE value="Primer-HelloWorld" />
     <MESSAGE value="Practica 2" />
     <option name="LAST_COMMIT_MESSAGE" value="Practica 2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/Fish in tank.kt</url>
+          <properties method="canAddFish">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
